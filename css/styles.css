@@ -1,6 +1,8 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
+  background-image: url("Terraria_Overworld_theme.jpg");
+  background-size: cover;
 }
 footer {
   font-size: 85%;
