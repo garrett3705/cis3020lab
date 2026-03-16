@@ -1,7 +1,7 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 18px;
-  background-image: url("Terraria_Overworld_theme.jpg");
+  background-image: #cccccc url("Terraria_Overworld_theme.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 footer {
