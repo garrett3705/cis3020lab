@@ -17,3 +17,20 @@ footer {
   font-size: 1.25rem;
   background-color: transparent;
 }
+.colored-box {
+    background-color: #b47643;
+    border: 2px solid #915630;
+    padding: 20px;
+    border-radius: 8px;
+    width: fit-content;
+    margin: 20px 0;
+}
+
+.colored-box ol {
+    margin-bottom: 0;
+}
+
+.colored-box li {
+    margin-bottom: 10px;
+    color: #333;
+}
