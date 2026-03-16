@@ -1,0 +1,12 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+}
+footer {
+  font-size: 85%;
+  border-top: 2px solid #333;
+  background-color: #eee;
+}
+.site-title {
+  font-size: 1.25rem;
+}
